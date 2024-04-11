@@ -1,0 +1,4 @@
+1.cd --change directory
+2.new-item filename --create new file
+3.mkdir --create a new directory
+4.remove-item file name --remove the file from the folder
